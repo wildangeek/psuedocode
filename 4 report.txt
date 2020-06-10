@@ -3,13 +3,13 @@ STORE report
 if nilai > 80
 result A
 
-if nilai < 80
+if nilai < 80 dan lebih dari 70
 result B
 
-if nilai < 70
+if nilai < 70 dan lebih dari 60
 result C
 
-if nilai < 60
+if nilai < 60 dan lebih dari 50
 result D
 
 if nilai < 50
