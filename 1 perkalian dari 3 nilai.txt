@@ -1,0 +1,7 @@
+input a nilai 1
+
+input b nilai 2
+
+input c nilai 3
+
+result a * b * c hasilnya adalah 6

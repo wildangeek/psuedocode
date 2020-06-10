@@ -1,0 +1,11 @@
+mulai
+
+input "w" dengan nilai "Saya Senang"
+input "i" dengan nilai 1
+
+while "i" kurang dari sama dengan 100
+
+tampilkan w ditambah dengan 1
+
+selesai
+

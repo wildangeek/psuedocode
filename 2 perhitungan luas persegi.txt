@@ -1,0 +1,12 @@
+program perhitungan_luas_persegi
+
+var sisi1, sisi2 luas integer
+
+algoritma:
+
+read(sisi1);
+read(sisi2);
+
+luas <-- sisi1 * sisi2;
+
+write(luas);

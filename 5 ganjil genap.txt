@@ -1,0 +1,29 @@
+PROGRAM ganjil_genap
+
+input angka = 1,2,3,4,5,6,7,8,9,10
+
+deklarasi i = integer
+
+cari genap :
+
+input i adalah 1
+input i kurang dari sama dengan angka
+input i ditambah 1
+
+jika angka dari i dibagi sisa 2 sama dengan 0
+
+input genap tambah angka dari i
+
+display genap
+
+cari ganjil:
+
+input i adalah 1
+input i kurang dari sama dengan angka
+input i ditambah 1
+
+jika angka dari 1 dibagi sisa 2 sama dengan 1
+
+input ganjil tambah angka dari i
+
+display ganjil

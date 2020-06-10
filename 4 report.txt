@@ -1,0 +1,16 @@
+STORE report
+
+if nilai > 80
+result A
+
+if nilai < 80
+result B
+
+if nilai < 70
+result C
+
+if nilai < 60
+result D
+
+if nilai < 50
+result E
